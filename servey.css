@@ -1,0 +1,13 @@
+body {
+    background-image: url(https://www.bing.com/th?id=OIP.6mBi8R588ukKrLqmJoRvOwHaIJ&w=148&h=185&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  }
+  form, h1, p {
+     width: 60vw;
+    max-width: 500px;
+    min-width: 300px;
+    margin: 0 auto;
+    background-color:#CBC3E3;
+  }
