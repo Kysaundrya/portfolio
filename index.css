@@ -1,3 +1,12 @@
 body {
     background-color: #d5dffc;
+    margin-left: 500px;
+    margin-right: 300px;
+}
+h1, h2, h3 {
+ font-family: Georgia, serif;
+ text-align: center;
+}
+nav {
+    text-align: center;
 }
