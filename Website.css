@@ -3,7 +3,7 @@ body {
     margin-left: 500px;
     margin-right: 300px;
 }
-h1 {
+h1, h2 {
     font-family: Georgia, serif;
  text-align: center;
 }
