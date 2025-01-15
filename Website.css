@@ -17,3 +17,12 @@ img {
 .hr2 {
 margin-top: 1%;
 }
+button {
+    margin-left: 35%;
+    outline-color: rgb(4, 116, 190);
+    background-color: rgb(76, 136, 247);
+    padding-top: 4%;
+    padding-bottom: 4%;
+    padding-left: 4%;
+    padding-right: 4%;
+}
